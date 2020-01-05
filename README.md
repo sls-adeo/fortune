@@ -1,5 +1,11 @@
 # fortune
-Create a Fortune (https://en.wikipedia.org/wiki/Fortune_(Unix)) : a random message print with a cowsay ascii image (https://en.wikipedia.org/wiki/Cowsay)
+Create a fortune (https://en.wikipedia.org/wiki/Fortune_(Unix)) : a random message print with a cowsay ascii image (https://en.wikipedia.org/wiki/Cowsay)
+
+Here is the fortune for adeo and some brands 
+
+<p align="center"><img src="https://github.com/sls-adeo/fortune/blob/master/screenshotadeo.png" alt="Adeo Fortune"/></p>
+
+<p align="center"><img src="https://github.com/sls-adeo/fortune/blob/master/screenshotkbane.png" alt="Kbane Fortune"/></p>
 
 
 
@@ -134,3 +140,12 @@ export FORTUNEADEO=`ls /usr/share/cowsay/cows/adeo* /usr/share/cowsay/cows/brico
  
 fortune $FORTUNEADEO | cowsay -f $FORTUNEADEO
 ```
+
+
+
+                         ,
+                        /            
+                     `\_\        
+                        \         
+                       /O\        
+
