@@ -75,19 +75,17 @@ You can follow that tutorial https://galeascience.wordpress.com/2016/03/18/colle
 
 * Get the Github project twitter_search (https://github.com/agalea91/twitter_search)
 * Modify the project 
-	... set your Keys/SecretKeys for calling the Apis Twitter
-  ... get the tweet having the keyword adeo , kbane , ...)  and not the RT ones
-  ... modify the number of days authorized by Twitter for searching tweets (9 days) 
-  ... Save text tweet info and its create date in a '|' separated file (.txt)
+   - Set your Keys/SecretKeys for calling the Apis Twitter
+   - Get the tweet having the keyword adeo , kbane , ... and not the RT ones
+   - Modify the number of days authorized by Twitter for searching tweets (9 days) 
+   - Save text and creation date tweet data in a '|' separated file (.txt)
 
 
 ### Run the project
 
 `python3 twitter_search.py`
 
-* Dedouble lines in the .txt file 
-
-![Becareful](https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Nuvola_apps_important.svg/30px-Nuvola_apps_important.svg.png "Becareful") Check messages and Keep the interesting ones
+* Dedouble lines in the .txt files ![Becareful](https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Nuvola_apps_important.svg/30px-Nuvola_apps_important.svg.png "Becareful") (check before messages and keep only the interesting ones ;-))
 
 Use this script
  
